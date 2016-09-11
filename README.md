@@ -1,7 +1,7 @@
 My Lovely Project
 =================
 
-[A great example](http://chris.beams.io/posts/git-commit/) repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
+[A great example](http://chris.beams.io/posts/git-commit/), yes this is ok, but I'm making a comment to clarify it. repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
 
 ## Getting started
 
