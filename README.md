@@ -1,9 +1,11 @@
 My Lovely Project
 =================
 
-A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
+[A great example](http://chris.beams.io/posts/git-commit/), yes this is ok, but I'm making a comment to clarify it. repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
 
 ## Getting started
+
+This is another hack.
 
 The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
 
@@ -16,3 +18,5 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 ## License
 
 This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
+
+#Just Make a Change
